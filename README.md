@@ -4,7 +4,7 @@ This repository contains files created as a part of Machine Learning in R Skill 
 
 Machine Learning in R Skill Track on Datacmp consist of following courses:
 
-1. Supervised Learning in R: Clsassification
+1. Supervised Learning in R: Classification
 2. Supervised Learning in R: Regression
 3. Unsupervised Learning in R
-4. Machine Laerning Toolbox
+4. Machine Learning Toolbox
